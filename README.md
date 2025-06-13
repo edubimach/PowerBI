@@ -21,4 +21,4 @@ O painel foi desenvolvido para facilitar a **tomada de decisão** por parte da g
 
 ## 🔗 Acesse o Dashboard Online
 
-👉 [Clique aqui para visualizar o painel no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjljZDU3MzUtZTM1ZS00ODBkLWJmMDAtZGRkMTgyNDg0ZTkyIiwidCI6IjYyMmZhZDkxLWQ5ZGEtNGUyNy04Mzh)
+👉 [Clique aqui para visualizar o painel no Power BI] https://app.powerbi.com/groups/89eb81e6-ad2e-4b93-9dc7-4df091868a29/reports/0ac63381-a0cd-47f4-b655-e3c0c82c5113/b40aa0f9fd7f6005a460?experience=power-bi
